@@ -2,7 +2,7 @@
 
 A carefully crafted i3 window manager configuration for Arch Linux featuring a minimalist aesthetic with warm color schemes and efficient workflows.
 
-![Desktop Preview](showcase/2025-07-20_17-45.png)
+![Desktop Preview](showcase/2025-07-20_17-50.png)
 
 ## 🎨 Features
 
